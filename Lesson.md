@@ -146,7 +146,10 @@ print('Loop is finished.')
 ```
 
 ```Answer goes here:
-
+5
+4
+3
+Loop is finished
 ```
 
 ## Example #2: Basic While Loop with `continue`
@@ -163,7 +166,11 @@ print('Loop is finished.')
 ```
 
 ```Answer goes here:
+5
+4
+3
 
+NOTE: Loop runs infinitely.
 ```
 
 ## Example #3: Bike Frame Size

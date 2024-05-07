@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # Name:		    Lesson 5.7 Break & Continue
 # Purpose:		Basic While Loop with Continue
-# Author:		  
+# Author:		  Ricci Lee
 # Created:		06/05/2024
 #-------------------------------------------------------------------------
 
